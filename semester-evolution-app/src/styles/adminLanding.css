@@ -1,0 +1,42 @@
+#videoCover {
+  float: right;
+  width: 50%;
+  height: 330px;
+}
+
+footer {
+  position: relative;
+  bottom: 0%;
+  background-color: rgb(158, 158, 158);
+  color: aliceblue;
+  height: 50px;
+  text-align: center;
+  align-content: center;
+  /* margin-left: 6.3%; */
+  /* margin-right: 6.3%; */
+}
+.main-container {
+  padding-left: 125px;
+}
+.home-btn {
+  cursor: pointer;
+}
+
+#studentCard {
+  width: 70%;
+  margin: 0 auto;
+  border: none;
+  box-shadow: 3px 3px 24px 13px gainsboro;
+  border-radius: 10px;
+}
+
+#studentProfile {
+  /* margin-top: 3%; */
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+}
+
+.card-img-top{
+  height: 250px;
+}
